@@ -1,0 +1,2 @@
+export const supabaseUrl = 'https://gkfkoazpbwastgkojopl.supabase.co';
+export const supabaseAnonKey = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImdrZmtvYXpwYndhc3Rna29qb3BsIiwicm9sZSI6ImFub24iLCJpYXQiOjE3MzkzNDAzMDUsImV4cCI6MjA1NDkxNjMwNX0._tjCh9dtjyTXeHhxCpz9NXf0gYNfpqkmoRuvYvwJGmE';
